@@ -29,5 +29,5 @@ Ju fler vi blir som vet vad som gäller och vad vi behöver göra under kommande
 3. Se följande video och få en bra översikt
 
 <div class="responsive-embed">
-    <iframe width="560px" height="315px" style="display: block; margin: 0 auto;" src="https://www.youtube.com/embed/3CM_KkDuzGQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/3CM_KkDuzGQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
