@@ -22,9 +22,11 @@ Ju fler vi blir som vet vad som gäller och vad vi behöver göra under kommande
 
 # Hur?
 
-1. Gå med i grupper som t.ex. [Klimatnyheter](https://facebook.com/groups/447754045324349/) för att ta del av aktuell forskning och nyheter.
+1. [Lyssna på Johan Rockströms sommarprat från 2015](https://sverigesradio.se/sida/avsnitt/571827?programid=2071) och hör vad du tjänar på att bli en planetskötare.
 
-2. Se följande video och få en bra översikt
+2. Gå med i grupper som t.ex. [Klimatnyheter](https://facebook.com/groups/447754045324349/) för att ta del av aktuell forskning och nyheter.
+
+3. Se följande video och få en bra översikt
 
 <div class="responsive-embed">
     <iframe width="560px" height="315px" style="display: block; margin: 0 auto;" src="https://www.youtube.com/embed/3CM_KkDuzGQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
