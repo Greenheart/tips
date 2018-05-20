@@ -1441,16 +1441,16 @@ pre code {
 
 .author-box .image-container {
   margin-right: 30px;
-  width: 100px;
+  min-width: 100px;
   height: 100px;
   overflow: hidden;
-}
-
-.author-box .image-container .author-image {
-  height: 100%;
-  width: 100%;
   -webkit-border-radius: 50%;
           border-radius: 50%;
+}
+
+.author-box .image-container .author-img {
+  height: 100px;
+  max-width: 100px;
 }
 
 .author-box .author-desc h2 {
