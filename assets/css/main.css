@@ -1663,6 +1663,12 @@ pre code {
 }
 
 /* = = = = = = = = = = Media = = = = = = = = = = */
+@media screen and (max-width: 798px) {
+  .page-image {
+    height: 400px;
+  }
+}
+
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
   .main-header .logo a {
@@ -1689,6 +1695,12 @@ pre code {
     left: 2.5%;
     bottom: 10%;
     color: #fff;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .page-image {
+    height: 300px;
   }
 }
 
@@ -1720,7 +1732,7 @@ pre code {
     font-size: 16px;
   }
   .page-image {
-    height: 380px;
+    height: 200px;
   }
   .recent-box .recent-list .recent-item {
     position: relative;
@@ -1779,6 +1791,9 @@ pre code {
         -ms-flex-align: center;
             align-items: center;
     text-align: center;
+  }
+  .author-box .image-container {
+    margin: 0;
   }
   .author-box .author-img {
     height: 100px;

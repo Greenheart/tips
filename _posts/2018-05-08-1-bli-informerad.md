@@ -3,7 +3,7 @@ layout: post
 title: 'Tips 1: Bli informerad'
 date: 2018-05-08 13:32:20 +0200
 description: En kort beskrivning av tips 1.
-img: post-6.jpg # Add image post (optional)
+img: du-tjanar-pa-den.png
 tags: [Tips]
 social-img: 1-bli-informerad.png
 ---
