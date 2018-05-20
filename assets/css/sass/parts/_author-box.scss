@@ -7,10 +7,14 @@
   border-bottom: 1px solid $lighten-gray;
   .image-container {
     margin-right: 30px;
-    max-width: 100px;
+    width: 100px;
     height: 100px;
-    border-radius: 50%;
     overflow: hidden;
+    .author-image {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+    }
   }
   .author-desc {
     h2 {
