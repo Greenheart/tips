@@ -4,21 +4,23 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   {% if page.social-img %}
     <meta property="og:image" content="{{ site.baseurl }}/assets/img/social-media/{{ page.social-img }}">
+  {% else %}
+    <meta property="og:image" content="{{ site.baseurl }}/assets/img/social-media/hallbara-tips.png">
   {% endif %}
   {% if page.description %}
     <meta name="description" content="{{ page.description }}">
   {% else %}
     <meta name="description" content="&quot;Ingen kan göra allting, men alla kan göra något&quot;. Det här är en samling tips som förhoppningsvis väcker en tanke. Att bli en del av lösningen är faktiskt lättare än man tror.">
   {% endif %}
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="{{ "/assets/img/favicon/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32">
   <link rel="icon" href="{{ "/assets/img/favicon/favicon-16x16.png" | prepend: site.baseurl }}" sizes="16x16">
 	<!-- Chrome, Firefox OS and Opera -->
-	<meta name="theme-color" content="#311e3e">
+	<meta name="theme-color" content="#fff">
 	<!-- Windows Phone -->
-	<meta name="msapplication-navbutton-color" content="#311e3e">
+	<meta name="msapplication-navbutton-color" content="#fff">
 	<!-- iOS Safari -->
-	<meta name="apple-mobile-web-app-status-bar-style" content="#311e3e">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
