@@ -1,4 +1,5 @@
 $(function () {
+  // Cache variables for increased performance on devices with slow CPUs.
   var flexContainer = $('div.flex-container')
   var searchBox = $('.search-box')
   var searchClose = $('.search-icon-close')
@@ -10,12 +11,14 @@ $(function () {
     flexContainer.toggleClass('active')
   })
 
+  // Click outside of menu to close it
   flexContainer.click(function (e) {
     if (flexContainer.hasClass('active')) {
       flexContainer.removeClass('active')
     }
   })
 
+  // Press Escape key to close menu
   $(window).keypress(function (e) {
     if (e.key === 'Escape') {
       if (flexContainer.hasClass('active')) {
