@@ -1226,8 +1226,6 @@ pre code {
           border-top-left-radius: 20px;
   -webkit-border-top-right-radius: 20px;
           border-top-right-radius: 20px;
-  -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
-          box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
 }
 
 .page-content .post-social-img {
