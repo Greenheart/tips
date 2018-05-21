@@ -11,7 +11,7 @@ social-img: 1-bli-informerad.png
 
 > No one can do everything, but everyone can do something
 
-Att lösa klimathotet är en stor utmaning. Därför är det viktigt att börja med små steg. Som vid all problemlösning är ett bra sätt att komma igång att förstå de förutsättningar som finns. En bra grund gör det lättare att se de alternativ man väljer mellan. Lättare att se var man kan göra skillnad.
+Att lösa klimathotet är en stor utmaning. Därför är det viktigt att börja med små steg. Som vid all prolemlösning så är en bra början att förstå de förutsättningar som finns. En bra grund gör det lättare att se de alternativ man väljer mellan. Lättare att se var man kan göra skillnad.
 
 Likt hur man i orientering går igenom kartan innan man bestämmer sitt vägval, eller hur man i programmering sammanfattar sina tankar innan man tar fram en lösning så är det värt att stanna upp och fundera. Vad innebär egentligen klimatförändringarna? Vad säger vetenskapen? Varför uppmärksammas ämnet så lite i samhället, trots att [det är bråttom att ställa om](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent)? Men kanske viktigast av allt: Hur blir man en del av lösningen?
 
