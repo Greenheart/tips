@@ -1,5 +1,5 @@
 @import "variables";
-@import "syntax";
+// @import "syntax";  Syntax highlighting is not necessary for this page.
 @import "tools/normalize";
 
 
@@ -121,6 +121,9 @@ pre {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 @import "parts/post-card";
+
+/* = = = = = = = = = = Homepage Styles = = = = = = = = = = */
+@import "parts/homepage";
 
 /* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
 @import "parts/pagination";

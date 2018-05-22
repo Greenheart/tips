@@ -1,0 +1,22 @@
+.homepage-intro {
+  .links {
+    display: flex;
+    justify-content: space-around;
+    max-width: 450px;
+    margin: 40px auto 0;
+
+    > a {
+      width: 150px;
+      padding: 10px;
+      background: $green;
+      text-decoration: none;
+      text-align: center;
+      font-weight: 300;
+      color: $white;
+
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+}

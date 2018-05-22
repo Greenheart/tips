@@ -2,14 +2,16 @@
 .page-image,
 .page-content,
 .about-container,
-.post-card-box {
+.post-card-box,
+.homepage-intro {
   animation-duration: 0.7s;
   animation-fill-mode: both;
   animation-name: fadeInDown;
 }
 
 .main-header,
-.page-image {
+.page-image,
+.homepage-intro {
   animation-delay: 0.5s;
 }
 
