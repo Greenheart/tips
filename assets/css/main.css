@@ -1401,6 +1401,10 @@ pre code {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
+  html,
+  body {
+    font-size: 18px;
+  }
   .main-header .logo a {
     font-size: 24px;
   }
