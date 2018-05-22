@@ -1509,6 +1509,14 @@ pre code {
   margin: 100px 0 100px;
 }
 
+.about-container li {
+  margin: 2em 0;
+}
+
+.about-container hr {
+  margin: 3em 0;
+}
+
 .about-header {
   position: relative;
   text-align: center;
