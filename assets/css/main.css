@@ -829,12 +829,25 @@ pre code {
 
 .homepage-intro .links > a {
   width: 150px;
+  height: 50px;
+  font-size: 16px;
   padding: 10px;
   background: #7cb518;
   text-decoration: none;
-  text-align: center;
   font-weight: 300;
   color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .homepage-intro .links > a:hover {
