@@ -470,7 +470,7 @@ img {
   max-width: 100%;
 }
 
-a {
+a, span.tag {
   color: #87314e;
 }
 
