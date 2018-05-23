@@ -42,6 +42,14 @@ a {
   color: $dark-pink;
 }
 
+ul, ol {
+  padding-left: 2em;
+}
+
+li {
+  padding-left: .5em;
+}
+
 blockquote {
   border-left: 3px solid $dark-purple;
   padding-left: 18px;
