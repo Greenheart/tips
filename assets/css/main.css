@@ -918,20 +918,20 @@ pre code {
 /* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
 .pagination {
   margin-bottom: 30px;
-}
-
-.pagination .previous {
-  float: left;
-}
-
-.pagination .next {
-  float: right;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 .pagination .previous, .pagination .next {
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 18px;
   color: #3e3e40;
 }
 

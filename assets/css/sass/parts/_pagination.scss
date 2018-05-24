@@ -1,15 +1,11 @@
 .pagination {
   margin-bottom: 30px;
-  .previous {
-    float: left;
-  }
-  .next {
-    float: right;
-  }
+  display: flex;
+  justify-content: center;
   .previous, .next {
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 18px;
     color: $dark-gray;
     &:hover {
       opacity: .8;
