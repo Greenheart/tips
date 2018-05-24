@@ -8,7 +8,7 @@ layout: default
     {% include search.html %}
     {% include pagination.html %}
   </div>
-  {% if page.url == '/' %}
+  {% if page.url != '/join' %}
     {% include join-us.html %}
   {% endif %}
   {% include footer.html %}
