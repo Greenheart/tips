@@ -24,7 +24,7 @@ layout: home-page
 {% endif %}
 
 <ol class="post-card-box clearfix">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts reversed %}
   <li>
     <div class="post-card">
       {% if post.social-img %}
