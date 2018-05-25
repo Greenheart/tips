@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Tips 1: Bli informerad'
-date: 2018-05-08 13:32:20 +0200
-description: En kort beskrivning av tips 1.
+date: 2018-05-20 13:13:10 +0200
+description: Vad handlar klimatförändringar om? Hur påverkar de mig? Här är förslag på hur du kan få svar på dina frågor.
 tags: [Tips]
 social-img: 1-bli-informerad.png
 ---
