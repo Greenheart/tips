@@ -29,6 +29,6 @@ Med tanke på detta så är ett bra första steg mot en hållbar livsstil att fa
 
 1. Ta med dig insikten om att till synes små val i din vardag egentligen gör en stor skillnad i klimatpåverkan, även om du inte direkt ser resultatet. Den tanken gör det lättare att förändra saker framöver.
 
-2. Mät din påverkan med [Klimatkalkylatorn](https://klimatkalkylatorn.se/) från WWF för att se var du är idag. Hur står sig ditt resultat mot kompisens? Vem kan minska sin påverkan mest under kommande halvåret?
+2. Mät din påverkan med [Klimatkalkylatorn](https://klimatkalkylatorn.se/) från WWF för att se var du är idag. Hur står sig ditt resultat dina vänners? Vem kan minska sin påverkan mest under kommande halvåret?
 
 3. För en mer detaljerad bild av din påverkan så rekommenderar jag [Svalna](https://www.svalna.se/), som använder ett bredare underlag.
