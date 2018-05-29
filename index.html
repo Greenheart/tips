@@ -28,7 +28,7 @@ layout: home-page
   <li>
     <div class="post-card">
       {% if post.social-img %}
-        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/social-media/" | prepend: site.baseurl | append : post.social-img }} )"></a>
+        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/featured/" | prepend: site.baseurl | append : post.social-img }} )"></a>
       {% else %}
         <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img }} )"></a>
       {% endif %}

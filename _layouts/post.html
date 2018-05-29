@@ -18,7 +18,7 @@ layout: default
           <div class="page-date"><time datetime="{{page.date}}">{% include date.html %}</time></div>
         </div>
         {% if page.social-img %}
-          <img src="{{ site.baseurl | append: '/assets/img/social-media/' | append: page.social-img }}" alt="{{ page.title }}" class="post-social-img">
+          <img src="{{ site.baseurl | append: '/assets/img/featured/' | append: page.social-img }}" alt="{{ page.title }}" class="post-social-img">
         {% endif %}
         {{page.content | markdownify}}
         <div class="page-footer">
