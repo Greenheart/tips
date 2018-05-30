@@ -9,7 +9,7 @@ social-img: varfor-bry-sig.png
 
 **Oavsett om man bryr sig eller inte så kommer vi tvingas leva mer hållbart förr eller senare. Frågan är bara om du vill riskera att bli en förlorare som väntar? Eller vill du faktiskt tjäna på omställningen genom att börja redan idag?**
 
-Som man kan ana så finns det flera anledningar till att bry sig. Dels har vi det rent praktiska skälet att mänskligheten behöver ett lämpligt klimat för att kunna överleva. Att vi just nu förstör vår enda planet. Men domedagssnacket inspirerar inte direkt till förändring. En påtvingad förändring är inte alls lika kul som något man själv vill.
+Som man kan ana så finns det flera anledningar till att bry sig. Dels har vi det rent praktiska skälet att mänskligheten behöver ett lämpligt klimat för att kunna överleva. Att vi just nu förstör vår enda planet. Men domedagssnacket inspirerar inte direkt till förändring. En påtvingad förändring är inte alls lika kul som något man vill själv.
 
 Som tur är så finns en bättre anledning som istället låter oss se allvaret i klimathotet som något positivt. Det är egentligen inte svårare än så här: Det som är bra för både planeten och mänskligheten i stort är även bra för oss individer. Nästan för bra för att vara sant? Låt mig förklara:
 
@@ -30,7 +30,7 @@ Möjligheterna med en hållbar livsstil kan vara svåra att se här och nu, men 
 
 # Hur gör man för att bry sig?
 
-När du väl bestämt dig för att bry dig om en mer hållbar livsstil så kommer nästa fråga. Hur gör man för att bry sig?
+När du väl bestämt dig för att bry dig om en mer hållbar livsstil så kommer nästa fråga. Hur gör man?
 
 Det är vad den här hemsidan vill förklara, genom en serie konkreta tips. Eftersom hållbarhet innefattar så många perspektiv så finns det ingen ultimat lösning. Men ju mer man utforskar, desto lättare blir det att se de lösningar som passar en själv.
 
