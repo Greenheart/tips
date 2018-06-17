@@ -13,7 +13,7 @@ Omställningen har redan börjat, även om den ännu inte syns tillräckligt i t
 Ett bra nästa steg på sin resa är att ta reda på vad andra redan testat och lärt sig. Det ger inte bara kunskap, utan framförallt stöd och inspiration till att själv försöka.
 
 # Hur?
-1. Hur kommer man igång? Spelar små val i vardagen verkligen någon roll? [Lyssna på Heidi Andersson och få en bra översikt ](http://www.klimatpodden.se/uncategorized/51-heidi-andersson-borja-med-dig-sjalv-forandra-varlden/).
+1. Hur kommer man igång? Spelar små val i vardagen verkligen någon roll? [Lyssna på Heidi Andersson och få en bra översikt](http://www.klimatpodden.se/uncategorized/51-heidi-andersson-borja-med-dig-sjalv-forandra-varlden/).
 
 2. Hur påverkar vår livsstil resten av världen? Hur mycket går att förändra på en månad? *En hel del visar det sig*. [Se Zero Impact på UR Play](https://urplay.se/serie/199531-zero-impact).
 
